@@ -8,3 +8,4 @@ Werkzeug==2.0.2
 opencv-python==4.5.4.58
 numpy==1.21.4
 opencv-python-headless
+subprocess
